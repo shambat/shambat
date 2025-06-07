@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sham</h1>
-<h3 align="center">Cyber Security Professional | SOC Enthusiast | Threat Hunter</h3>
+<h1 align="center">Hi 👋, I'm Ehtisham </h1>
+<h3 align="center">Cyber Security Professional | Security Enthusiast | Threat Hunter</h3>
 
 ---
 
