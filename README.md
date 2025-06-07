@@ -5,7 +5,7 @@
 
 🔐 **About Me**
 
-I'm a final-year Cybersecurity student at Air University, Pakistan, with a strong passion for securing digital infrastructures and solving complex security challenges. My journey is driven by curiosity and a commitment to enhancing the security and resilience of digital systems.
+I'm a Final-year Cybersecurity student at Air University, Pakistan, with a strong passion for securing digital infrastructures and solving complex security challenges. My journey is driven by curiosity and a commitment to enhancing the security and resilience of digital systems.
 
 - 🎓 **Education**: Bachelor's in Cybersecurity (2022–Present)
 - 💼 **Experience**: Entry-Level | Freelancer
