@@ -1,51 +1,81 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ehtisham</h1>
 <h3 align="center">Cybersecurity Professional | SOC Enthusiast | Cloud Security Practitioner</h3>
 
----
-
-🔐 **About Me**
-
-I'm a Final-year Cybersecurity student at Air University, Pakistan, with a strong passion for securing digital infrastructures and solving complex security challenges. My journey is driven by curiosity and a commitment to enhancing the security and resilience of digital systems.
-
-- 🎓 **Education**: Bachelor's in Cybersecurity (2022–Present)
-- 💼 **Experience**: Entry-Level | Freelancer
-- 🌐 **Portfolio**: [www.ehtisham.space](https://www.ehtisham.space)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Network+Defense+%7C+Cloud+Security+%7C+SOC+Operations;Log+Analysis+%7C+PenTesting+%7C+SIEM+Tools;Let's+secure+the+digital+world+🔐" alt="Typing SVG" />
+</p>
 
 ---
 
-🛠️ **Technical Skills**
+## 🔐 About Me
 
-- **Network Security**: Intrusion Detection, Penetration Testing, Vulnerability Assessment
-- **Cloud Security**: AWS, Azure, Cloud Security Audits, Misconfiguration Assessments
-- **SOC Operations**: Wazuh SIEM, IBM QRadar, Log Analysis, Threat Monitoring
-- **Tools & Technologies**: Kali Linux, Wireshark, Metasploit, Burp Suite, Nmap, Snort, Nessus, Docker
+I'm a *final-year Cybersecurity student* at *Air University, Pakistan, passionate about **securing digital infrastructure* and solving complex security challenges. My journey in cyber defense is rooted in curiosity, discipline, and a relentless drive to build a safer digital world.
 
----
-
-📂 **Notable Projects**
-
-- **Wazuh SIEM Deployment on Azure**: Implemented a cloud-based Wazuh SIEM solution for enhanced security monitoring and threat detection.
-- **Cloud Security Audit**: Identified and mitigated critical cloud security misconfigurations, including exposed AWS credentials and unauthenticated Kubernetes API endpoints.
-- **IBM QRadar Exploration**: Gained hands-on experience with IBM QRadar SIEM, focusing on log collection, normalization, and real-time threat detection.
-- **DVWA Penetration Testing**: Conducted penetration testing on the Damn Vulnerable Web Application, covering SQL Injection, XSS, CSRF, and authentication bypass techniques.
-- **Honeypot Deployment**: Deployed a custom Honeypot Server on DigitalOcean with Suricata and Wazuh integration for real-time threat detection.
+- 🎓 *Degree*: B.S. in Cybersecurity (2022–Present)  
+- 💼 *Experience*: Entry-Level | Freelance Security Projects  
+- 🌐 *Portfolio*: [www.ehtisham.space](https://www.ehtisham.space)  
 
 ---
 
-🎓 **Certifications**
+## 🛠 Technical Skills
 
-- **(ISC)² Certified in Cybersecurity (CC)** – Dec 2023
-- **AWS Academy Cloud Security Foundations** – Nov 2024
+### 🧰 Core Areas
+- *Network Security*: Intrusion Detection, Penetration Testing, Vulnerability Assessment  
+- *Cloud Security*: AWS, Azure, Cloud Audits, Misconfiguration Detection  
+- *SOC Operations*: Log Analysis, Threat Monitoring, SIEM Configuration
+
+### 🧪 Tools & Technologies
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679B1?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0072C6?style=for-the-badge&logo=windows&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FE7B20?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2F4F4F?style=for-the-badge&logo=metasploit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-E34F26?style=for-the-badge&logo=snort&logoColor=white)
 
 ---
 
-📫 **Connect with Me**
+## 📂 Notable Projects
 
-- 🌐 **Portfolio**: [www.ehtisham.space](https://www.ehtisham.space)
-- 💼 **LinkedIn**: [Muhammad Ehtisham](https://www.linkedin.com/in/ehtishamcyber)
-- 📧 **Email**: connectsham95@gmail.com
+- *🔭 Wazuh SIEM on Azure*  
+  Deployed Wazuh on Azure for advanced threat detection and log correlation.
+
+- *☁ Cloud Security Audit*  
+  Identified AWS misconfigurations including exposed keys & unauthenticated Kubernetes APIs.
+
+- *🧠 IBM QRadar Exploration*  
+  Hands-on log ingestion, normalization, and live threat monitoring.
+
+- *💉 DVWA Pentesting Lab*  
+  Performed real-world exploitation: SQLi, XSS, CSRF, Auth Bypass.
+
+- *🎯 Honeypot Deployment*  
+  Set up Suricata-integrated honeypot on DigitalOcean to monitor and trap malicious actors.
 
 ---
 
-> "Cybersecurity is not just a profession; it's a commitment to protect and serve in the digital realm."
+## 🎓 Certifications
 
+- 🛡 (ISC)² *Certified in Cybersecurity (CC)* – Dec 2023  
+- ☁ AWS Academy *Cloud Security Foundations* – Nov 2024
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shambat&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambat&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 Portfolio: [www.ehtisham.space](https://www.ehtisham.space)  
+- 💼 LinkedIn: [Muhammad Ehtisham](https://www.linkedin.com/in/ehtishamcyber/-here)  
+- 📧 Email: [connectsham95@gmail.com](mailto:connectsham95@gmail.com)
+
+---
+
+> “Cybersecurity is not just a profession; it's a commitment to protect and serve in the digital realm.”
