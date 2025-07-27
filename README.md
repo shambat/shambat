@@ -17,7 +17,7 @@
 </p>
 
 - 🎓 **Education**: Bachelor's in Cybersecurity (2022–Present)
-- 💼 **Experience**: Entry-Level | Freelancer
+- 💼 **Experience**: SOC Analyst Intern --Entry level | Freelancer
 - 🌐 **Portfolio**: [www.ehtisham.space](https://www.ehtisham.space)
 
 ---
