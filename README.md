@@ -16,7 +16,7 @@
   I'm a Final-year Cybersecurity student at Air University, Pakistan, with a strong passion for securing digital infrastructures and solving complex security challenges. My journey is driven by curiosity and a commitment to enhancing the security and resilience of digital systems.
 </p>
 
-- 🎓 **Education**: Bachelor's in Cybersecurity (2022–Present)
+- 🎓 **Education**: Bachelor's in Cybersecurity (2022–2026)
 - 💼 **Experience**: SOC Analyst Intern --Entry level | Freelancer
 - 🌐 **Portfolio**: [www.ehtisham.space](https://www.ehtisham.space)
 
