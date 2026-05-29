@@ -18,7 +18,7 @@
 
 - 🎓 **Education**: Bachelor's in Cybersecurity (2022–2026)
 - 💼 **Experience**: SOC Analyst Intern --Entry level | Freelancer
-- 🌐 **Portfolio**: [www.ehtisham.space](https://www.ehtisham.space)
+- 🌐 **Portfolio**: [www.shamtech.online](https://www.shamtech.online)
 
 ---
 
@@ -55,7 +55,7 @@
 ### 📫 **Connect with Me**
 
 <p align="center">
-  <a href="https://www.ehtisham.space">
+  <a href="https://www.shamtech.online">
     <img src="https://img.shields.io/badge/Portfolio-2AA889?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/ehtishamcyber">
