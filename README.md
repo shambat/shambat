@@ -25,7 +25,7 @@
   My interests include distributed SIEM architectures, High Availability (HA), SOAR, EDR, network security, and cloud security. I'm passionate about understanding how enterprise security infrastructure operates and building reliable, resilient security environments.
 </p>
 
-- 💼 **Current Role:** SOC Engineer @ Trillium Technologies
+- 💼 **Current Role:** SOC Engineer @ Trillium Infosec
 - 🎓 **Education:** BS Cybersecurity, Air University (2022–2026)
 - 🔍 **Focus Areas:** SIEM Engineering, Security Operations, Infrastructure Security
 - ☁️ **Future Direction:** Cloud Security Engineering
