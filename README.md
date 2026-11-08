@@ -1,58 +1,123 @@
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Muhammad+Ehtisham!;Cybersecurity+Professional;SOC+Enthusiast;Cloud+Security+Practitioner&center=true&size=25&color=2AA889&width=500">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Muhammad+Ehtisham!;SOC+Engineer;SIEM+Administrator;Cybersecurity+Professional&center=true&size=25&color=2AA889&width=550">
   </a>
 </h1>
 
 <h3 align="center">
-  Cybersecurity Professional | SOC Enthusiast | Cloud Security Practitioner
+  SOC Engineer | SIEM Administrator | Cybersecurity Professional
 </h3>
 
+<p align="center">
+  <a href="https://www.shamtech.online">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ehtishamcyber">LinkedIn</a> •
+  <a href="https://github.com/shambat">GitHub</a>
+</p>
+
 ---
 
-### 🔐 **About Me**
+### 🔐 About Me
 
 <p align="justify">
-  I'm a Final Semester Cybersecurity student at Air University, Pakistan, with a strong passion for securing digital infrastructures and solving complex security challenges. My journey is driven by curiosity and a commitment to enhancing the security and resilience of digital systems.
+  I'm a Cybersecurity Professional currently working as a <b>SOC Engineer at Trillium Technologies</b>, focusing on enterprise SIEM administration, security monitoring, infrastructure operations, and security engineering.
+  <br><br>
+  My interests include distributed SIEM architectures, High Availability (HA), SOAR, EDR, network security, and cloud security. I'm passionate about understanding how enterprise security infrastructure operates and building reliable, resilient security environments.
 </p>
 
-- 🎓 **Education**: Bachelor's in Cybersecurity (2022–2026)
-- 💼 **Experience**: SOC Analyst Intern --Entry level | Freelancer
-- 🌐 **Portfolio**: [www.shamtech.online](https://www.shamtech.online)
+- 💼 **Current Role:** SOC Engineer @ Trillium Technologies
+- 🎓 **Education:** BS Cybersecurity, Air University (2022–2026)
+- 🔍 **Focus Areas:** SIEM Engineering, Security Operations, Infrastructure Security
+- ☁️ **Future Direction:** Cloud Security Engineering
+- 🌐 **Portfolio:** [www.shamtech.online](https://www.shamtech.online)
 
 ---
 
-### 🛠️ **Technical Skills**
+### 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,aws,azure,docker,wireshark" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,aws,azure,docker,python,bash,git" />
 </p>
 
-- **Network Security**: Intrusion Detection, Penetration Testing, Vulnerability Assessment
-- **Cloud Security**: AWS, Azure, Cloud Security Audits, Misconfiguration Assessments
-- **SOC Operations**: Wazuh SIEM, IBM QRadar, Log Analysis, Threat Monitoring
-- **Tools & Technologies**: Kali Linux, Wireshark, Metasploit, Burp Suite, Nmap, Snort, Nessus, Docker
+**SIEM & Security Operations**
+- IBM QRadar SIEM Administration
+- Wazuh SIEM Deployment & Management
+- Log Source Integration & Troubleshooting
+- AQL Searches & Event Analysis
+- Security Monitoring & Threat Detection
+
+**Infrastructure & Security Engineering**
+- SIEM High Availability (HA) Operations
+- Distributed SIEM Architecture
+- Linux Server Administration
+- Syslog Integration & Network Troubleshooting
+- Backup & Recovery Operations
+
+**Security Technologies**
+- SOAR & EDR Fundamentals
+- Network Security & Traffic Analysis
+- Vulnerability Assessment
+- Incident Detection & Response
+- MITRE ATT&CK Framework
+
+**Tools & Technologies**
+- IBM QRadar, Wazuh, Wireshark
+- Kali Linux, Nmap, Burp Suite, Metasploit
+- pfSense, Snort, Suricata
+- AWS, Microsoft Azure, Docker
+- Python, Bash, Git
 
 ---
 
-### 📂 **Notable Projects**
+### 💼 Professional Experience
 
-- **Wazuh SIEM Deployment on Azure**: Implemented a cloud-based Wazuh SIEM solution for enhanced security monitoring and threat detection.
-- **Cloud Security Audit**: Identified and mitigated critical cloud security misconfigurations, including exposed AWS credentials and unauthenticated Kubernetes API endpoints.
-- **IBM QRadar Exploration**: Gained hands-on experience with IBM QRadar SIEM, focusing on log collection, normalization, and real-time threat detection.
-- **DVWA Penetration Testing**: Conducted penetration testing on the Damn Vulnerable Web Application, covering SQL Injection, XSS, CSRF, and authentication bypass techniques.
-- **Honeypot Deployment**: Deployed a custom Honeypot Server on DigitalOcean with Suricata and Wazuh integration for real-time threat detection.
+**SOC Engineer | Trillium Technologies**
+
+- Working with enterprise IBM QRadar SIEM infrastructure.
+- Supporting SIEM administration, monitoring, and operational troubleshooting.
+- Working with distributed SIEM components and High Availability (HA) environments.
+- Performing log source integration, event monitoring, and AQL-based investigations.
+- Supporting SIEM backup, recovery, and infrastructure maintenance activities.
+- Collaborating on enterprise security monitoring and infrastructure operations.
+
+**SOC Analyst Intern | NASTP Islamabad**
+
+*July 2025 – August 2025*
+
+- Participated in SOC operations and threat-hunting activities.
+- Worked with security event analysis and MITRE ATT&CK mapping.
+- Contributed to an ML-based DDoS detection dashboard.
 
 ---
 
-### 🎓 **Certifications**
+### 📂 Projects & Technical Work
 
-- **(ISC)² Certified in Cybersecurity (CC)** – Dec 2023
-- **AWS Academy Cloud Security Foundations** – Nov 2024
+- **Wazuh SIEM Deployment:** Deployed and configured Wazuh SIEM with Linux, Windows, and pfSense integrations.
+- **Industrial Network Security Monitoring:** Implemented security monitoring for a SCADA-oriented lab environment using Wazuh and pfSense.
+- **Machine Learning-Based Wi-Fi IDS:** Developed an edge-based intrusion detection system using Raspberry Pi and machine learning to detect Deauthentication, Evil Twin, and Rogue AP attacks.
+- **Cloud Security Assessment:** Explored AWS and Kubernetes security misconfigurations and cloud infrastructure security.
+- **Honeypot Deployment:** Deployed a honeypot environment with Suricata and Wazuh integration for security monitoring.
 
 ---
 
-### 📫 **Connect with Me**
+### 🎓 Certifications
+
+- **IBM QRadar SIEM Foundation** – IBM
+- **(ISC)² Certified in Cybersecurity (CC)** – December 2023
+- **AWS Academy Cloud Security Foundations** – November 2024
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shambat&show_icons=true&theme=transparent&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambat&layout=compact&theme=transparent&hide_border=true" height="165">
+</p>
+
+---
+
+### 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.shamtech.online">
@@ -61,9 +126,14 @@
   <a href="https://www.linkedin.com/in/ehtishamcyber">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://github.com/shambat">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
   <a href="mailto:connectsham95@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
-> "Cybersecurity is not just a profession; it's a commitment to protect and serve in the digital realm."
+<p align="center">
+  <i>"Building secure, resilient infrastructure through engineering and continuous learning."</i>
+</p>
